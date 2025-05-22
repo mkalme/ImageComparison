@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageComparison", "ImageComparison\ImageComparison.csproj", "{0266D4A2-9067-4544-8446-3148B1452960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0266D4A2-9067-4544-8446-3148B1452960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0266D4A2-9067-4544-8446-3148B1452960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0266D4A2-9067-4544-8446-3148B1452960}.Debug|x64.ActiveCfg = Debug|x64
+		{0266D4A2-9067-4544-8446-3148B1452960}.Debug|x64.Build.0 = Debug|x64
+		{0266D4A2-9067-4544-8446-3148B1452960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0266D4A2-9067-4544-8446-3148B1452960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0266D4A2-9067-4544-8446-3148B1452960}.Release|x64.ActiveCfg = Release|x64
+		{0266D4A2-9067-4544-8446-3148B1452960}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4336F7F8-E52C-4025-A3AA-0BFB29355822}
+	EndGlobalSection
+EndGlobal
